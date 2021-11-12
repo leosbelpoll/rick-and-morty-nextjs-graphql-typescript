@@ -7,6 +7,13 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@apollo/client": "^3.4.17",
+    "@types/graphql": "^14.5.0",
+    "@types/lodash": "^4.14.176",
+    "antd": "^4.16.13",
+    "deepmerge": "^4.2.2",
+    "graphql": "^16.0.1",
+    "lodash": "^4.17.21",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
